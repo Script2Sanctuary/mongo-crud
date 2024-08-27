@@ -10,6 +10,7 @@ NPM     : 10.1.1 \
 MUI 
 
 # Instalation
+npm init -y \
 npm install express mongoose body-parser \
 npm install --save-dev nodemon 
 
